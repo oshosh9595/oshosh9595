@@ -31,3 +31,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&amp;logoColor=white">
 </div>
+
+<div>
+  비트코인 프로젝트 : https://github.com/FireAntss/UpbitAnalyzer
+
+  프로젝트
+</div>
