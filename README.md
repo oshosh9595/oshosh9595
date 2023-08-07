@@ -32,7 +32,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&amp;logoColor=white">
 </div>
 
-비트코인 프로젝트
-[클릭] (https://github.com/FireAntss/UpbitAnalyzer)
+[비트코인 프로젝트](https://github.com/FireAntss/UpbitAnalyzer)
 
 프로젝트
