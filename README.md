@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  비트코인 프로젝트 : 클릭(https://github.com/FireAntss/UpbitAnalyzer)
+  비트코인 프로젝트 : [클릭](https://github.com/FireAntss/UpbitAnalyzer)
 
   프로젝트
 </div>
